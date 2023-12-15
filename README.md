@@ -6,7 +6,7 @@ Welcome to our repository for the first team project at the "Kelaasor Python and
 Project Snapshot:
 In just one week, we dived into creating a basic program to manage movies, actors, and directors. The main goal was to give users the ability to log in securely, then easily list and search for movies, actors, and directors.
 
-Key Features:
+# Key Features:
 
 **Quick Authentication:** Users can log in with a username and password, ensuring a basic yet secure access system.
 
@@ -18,7 +18,7 @@ Key Features:
 
 **Basic Search Functionality:** Find specific movies, actors, or directors with a straightforward search feature.
 
-How to Use:
+# How to Use:
 
 **Get the Code:** Clone this repository to your local machine:
 
