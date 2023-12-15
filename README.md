@@ -1,6 +1,4 @@
 # KelaasorProject1
-Kelaasor Python and Django Boot Camp - Team Project
-# KelaasorProject1
 Kelaasor Python and Django Boot Camp Team Project
 
 Welcome to our repository for the first team project at the "Kelaasor Python and Django Boot Camp." This project is a simple and practical example created by our mentor to guide you through building a Python project using object-oriented programming (OOP) concepts.
